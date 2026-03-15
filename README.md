@@ -1,10 +1,4 @@
-# Linear Regression Implementation
+# Learning supervised ML
 
-Datasets used:
-1. insurance.csv
-2. HousePricePrediction.csv
-
-Libraries used:
-1. pandas
-2. seaborn
-3. sklearn
+Algorithms implemented:
+1. Linear Regression
