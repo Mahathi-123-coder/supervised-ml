@@ -1,1 +1,10 @@
-# Learning supervised ML by implementing various algorithms on various datasets
+# Linear Regression Implementation
+
+Datasets used:
+1. insurance.csv
+2. HousePricePrediction.csv
+
+Libraries used:
+1. pandas
+2. seaborn
+3. sklearn
