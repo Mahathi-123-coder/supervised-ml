@@ -1,7 +1,7 @@
 # kNN Implementation
 
 Dataset used:
-1. iris.cv
+1. IRIS.cv
 
 Modules used:
 1. sklearn
