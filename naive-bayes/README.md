@@ -1,4 +1,4 @@
-# Implementing kNN
+# kNN Implementation
 
 Dataset used:
 1. iris.cv
