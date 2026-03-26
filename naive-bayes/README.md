@@ -1,7 +1,7 @@
-# kNN Implementation
+# Naive Bayes Implementation
 
 Dataset used:
-1. IRIS.cv
+1. heart.cv
 
 Modules used:
 1. sklearn
