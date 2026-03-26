@@ -1,1 +1,1 @@
-# Dataset used for kNN implementation
+# Dataset used for Naive Bayes implementation
