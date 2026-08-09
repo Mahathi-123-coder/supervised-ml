@@ -34,8 +34,8 @@ SVM can be used for both:
 
 | File | Description |
 |---|---|
-| `SVC_implementation.ipynb` | Support Vector Classification implementation |
-| `SVR_implementation.ipynb` | Support Vector Regression implementation |
+| `SVC_SVM_Classifier.ipynb` | Support Vector Classification implementation |
+| `svr-SVM_Regressor.ipynb` | Support Vector Regression implementation |
 
 ## 🎯 Learning Objective
 
